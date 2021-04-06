@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhno-code
 - 👀 I’m interested in database, machine learning
-- 🌱 I’m currently learning electron(js) and mysql
+- 🌱 I’m currently learning electron (js) and mysql
 - 📫 How to reach me (140156@unsaac.edu.pe)
 
 <!---
