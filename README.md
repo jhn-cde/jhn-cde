@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhno-code
+- 👋 Hi, I’m @jhn-cde
 - 👀 I’m interested in data science, AI, machine learning
 - 📫 How to reach me<br>
   - 140156@unsaac.edu.pe
