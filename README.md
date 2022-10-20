@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhn-cde
-- 👀 I’m interested in data science, AI, machine learning
+- 👀 I’m a computer science student located in Cusco
 - 📫 How to reach me<br>
   - 140156@unsaac.edu.pe
   - [linkedin](https://www.linkedin.com/in/johanwilla)
