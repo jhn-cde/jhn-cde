@@ -3,7 +3,7 @@
 - 📫 How to reach me<br>
   - 140156@unsaac.edu.pe
   - [linkedin](https://www.linkedin.com/in/johanwilla)
-  - [resume(CV)](https://drive.google.com/file/d/1Qxa_dtjDzXkix4zuI7stpyT3yAX8Qg8s/view?usp=sharing)
+  - [resume(CV)](https://drive.google.com/file/d/12iWLUDr5dVg6LVbezBlF1Ao7bJnpIX63/view?usp=share_link)
 
 <!---
 jhno-code/jhno-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
