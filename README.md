@@ -2,6 +2,7 @@
 - 👀 I'm a recent computer science graduate located in Cusco
 - 📫 How to reach me<br>
   - 140156@unsaac.edu.pe
+  - [portfolio](https://portfolio-jhn-cde.vercel.app)
   - [linkedin](https://www.linkedin.com/in/johanwilla)
   - [resume(CV)](https://drive.google.com/file/d/12iWLUDr5dVg6LVbezBlF1Ao7bJnpIX63/view?usp=share_link)
 
