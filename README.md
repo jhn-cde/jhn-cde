@@ -4,7 +4,7 @@
   - 140156@unsaac.edu.pe
   - [portfolio](https://portfolio-jhn-cde.vercel.app)
   - [linkedin](https://www.linkedin.com/in/johanwilla)
-  - [resume(CV)](https://drive.google.com/file/d/12iWLUDr5dVg6LVbezBlF1Ao7bJnpIX63/view?usp=share_link)
+  - [resume(CV)](https://drive.google.com/file/d/1B6WIYFDeYzIlB47NvM2M5AE85cZs6Emc/view?usp=sharing)
 
 <!---
 jhno-code/jhno-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
