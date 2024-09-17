@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jhn-cde
-- 👀 I'm a recent computer science graduate located in Cusco
 - 📫 How to reach me<br>
   - toe.johan@gmail.com
   - [portfolio](https://portfolio-jhn-cde.vercel.app)
